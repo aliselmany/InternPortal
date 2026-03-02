@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="InternPortal.Application/InternPortal.Application.csproj" />
+  <Project Path="InternPortal.Domain/InternPortal.Domain.csproj" />
+  <Project Path="InternPortal.Infrastructure/InternPortal.Infrastructure.csproj" />
+  <Project Path="InternPortal.WebUI/InternPortal.WebUI.csproj" />
+  <Project Path="InternPortal/InternPortal.csproj" />
+</Solution>
