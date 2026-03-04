@@ -19,7 +19,6 @@ public class UserService : IUserService
     {
         _context = context;
     }
-
    
     public async Task<IEnumerable<UserDto>> GetAllUsersAsync()
     {
