@@ -16,5 +16,5 @@ public class Application
     public ApplicationStatus Status { get; set; } = ApplicationStatus.Pending;
 
     public Guid UserId { get; set; }
-    public virtual User User { get; set; } = null!; 
+    public virtual User User { get; set; } = null!;
 }

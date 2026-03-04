@@ -1,13 +1,13 @@
-﻿    using System;
-    using System.Collections.Generic;
-    using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-    namespace InternPortal.Domain.Enums
+namespace InternPortal.Domain.Enums
+{
+    public enum UserRole
     {
-        public enum UserRole
-        {
-          Intern,
-          Staff,
-          Admin
-        }
+        Intern,
+        Staff,
+        Admin
     }
+}

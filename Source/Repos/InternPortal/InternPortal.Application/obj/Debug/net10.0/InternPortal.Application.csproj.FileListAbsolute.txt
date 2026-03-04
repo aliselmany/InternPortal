@@ -2,7 +2,9 @@ C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\bin\Debug\net10.
 C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\bin\Debug\net10.0\InternPortal.Application.dll
 C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\bin\Debug\net10.0\InternPortal.Application.pdb
 C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\bin\Debug\net10.0\InternPortal.Domain.dll
+C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\bin\Debug\net10.0\InternPortal.Infrastructure.dll
 C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\bin\Debug\net10.0\InternPortal.Domain.pdb
+C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\bin\Debug\net10.0\InternPortal.Infrastructure.pdb
 C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\obj\Debug\net10.0\InternPortal.Application.csproj.AssemblyReference.cache
 C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\obj\Debug\net10.0\InternPortal.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ali\Source\Repos\InternPortal\InternPortal.Application\obj\Debug\net10.0\InternPortal.Application.AssemblyInfoInputs.cache
