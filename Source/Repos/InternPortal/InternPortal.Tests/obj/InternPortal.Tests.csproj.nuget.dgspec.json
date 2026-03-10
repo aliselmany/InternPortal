@@ -61,6 +61,10 @@
               "target": "Package",
               "version": "[4.1.0, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[10.0.3, )"
@@ -1122,17 +1126,21 @@
               "target": "Package",
               "version": "[17.14.1, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
             "coverlet.collector": {
               "target": "Package",
               "version": "[6.0.4, )"
             },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.9.3, )"
-            },
             "xunit.runner.visualstudio": {
               "target": "Package",
               "version": "[3.1.4, )"
+            },
+            "xunit.v3": {
+              "target": "Package",
+              "version": "[3.2.2, )"
             }
           },
           "imports": [

@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A6928A4-1B27-C34C-4595-425FAEE8B5AD}|InternPortal\\InternPortal.WebUI.csproj|c:\\users\\ali\\source\\repos\\internportal\\internportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A6928A4-1B27-C34C-4595-425FAEE8B5AD}|InternPortal\\InternPortal.WebUI.csproj|solutionrelative:internportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45F23D88-C113-4245-A3B0-E276C38BBE3A}|InternPortal.Tests\\InternPortal.Tests.csproj|c:\\users\\ali\\source\\repos\\internportal\\internportal.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45F23D88-C113-4245-A3B0-E276C38BBE3A}|InternPortal.Tests\\InternPortal.Tests.csproj|solutionrelative:internportal.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9AEE803-28F4-D531-3788-5C18BCFED81B}|InternPortal.Application\\InternPortal.Application.csproj|c:\\users\\ali\\source\\repos\\internportal\\internportal.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9AEE803-28F4-D531-3788-5C18BCFED81B}|InternPortal.Application\\InternPortal.Application.csproj|solutionrelative:internportal.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C02BAE05-489E-6071-B935-A848E1628C5C}|InternPortal.WebUI\\InternPortalAPI.csproj|c:\\users\\ali\\source\\repos\\internportal\\internportal.webui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C02BAE05-489E-6071-B935-A848E1628C5C}|InternPortal.WebUI\\InternPortalAPI.csproj|solutionrelative:internportal.webui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C02BAE05-489E-6071-B935-A848E1628C5C}|InternPortal.WebUI\\InternPortalAPI.csproj|c:\\users\\ali\\source\\repos\\internportal\\internportal.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C02BAE05-489E-6071-B935-A848E1628C5C}|InternPortal.WebUI\\InternPortalAPI.csproj|solutionrelative:internportal.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9AEE803-28F4-D531-3788-5C18BCFED81B}|InternPortal.Application\\InternPortal.Application.csproj|c:\\users\\ali\\source\\repos\\internportal\\internportal.application\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9AEE803-28F4-D531-3788-5C18BCFED81B}|InternPortal.Application\\InternPortal.Application.csproj|solutionrelative:internportal.application\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9AEE803-28F4-D531-3788-5C18BCFED81B}|InternPortal.Application\\InternPortal.Application.csproj|c:\\users\\ali\\source\\repos\\internportal\\internportal.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9AEE803-28F4-D531-3788-5C18BCFED81B}|InternPortal.Application\\InternPortal.Application.csproj|solutionrelative:internportal.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C02BAE05-489E-6071-B935-A848E1628C5C}|InternPortal.WebUI\\InternPortalAPI.csproj|c:\\users\\ali\\source\\repos\\internportal\\internportal.webui\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C02BAE05-489E-6071-B935-A848E1628C5C}|InternPortal.WebUI\\InternPortalAPI.csproj|solutionrelative:internportal.webui\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A6928A4-1B27-C34C-4595-425FAEE8B5AD}|InternPortal\\InternPortal.WebUI.csproj|c:\\users\\ali\\source\\repos\\internportal\\internportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6928A4-1B27-C34C-4595-425FAEE8B5AD}|InternPortal\\InternPortal.WebUI.csproj|solutionrelative:internportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,92 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "InternPortal\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "InternPortal\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T13:48:24.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.Tests\\UserServiceTest.cs",
-              "RelativeDocumentMoniker": "InternPortal.Tests\\UserServiceTest.cs",
-              "ToolTip": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.Tests\\UserServiceTest.cs",
-              "RelativeToolTip": "InternPortal.Tests\\UserServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T12:11:27.395Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.WebUI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InternPortal.WebUI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.WebUI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InternPortal.WebUI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T08:52:57.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "InternPortal.Application\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "InternPortal.Application\\Services\\UserService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAkAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal\\Program.cs",
+              "RelativeDocumentMoniker": "InternPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal\\Program.cs",
+              "RelativeToolTip": "InternPortal\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T11:42:24.999Z",
+              "WhenOpened": "2026-03-10T08:18:04.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.WebUI\\Program.cs",
               "RelativeDocumentMoniker": "InternPortal.WebUI\\Program.cs",
               "ToolTip": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.WebUI\\Program.cs",
               "RelativeToolTip": "InternPortal.WebUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T11:31:03.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDto.cs",
-              "DocumentMoniker": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.Application\\Dtos\\ApplicationDto.cs",
-              "RelativeDocumentMoniker": "InternPortal.Application\\Dtos\\ApplicationDto.cs",
-              "ToolTip": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.Application\\Dtos\\ApplicationDto.cs",
-              "RelativeToolTip": "InternPortal.Application\\Dtos\\ApplicationDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T11:24:00.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.WebUI\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "InternPortal.WebUI\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.WebUI\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "InternPortal.WebUI\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwBUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T11:22:40.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "InternPortal.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\ali\\Source\\Repos\\InternPortal\\InternPortal.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "InternPortal.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T11:21:52.563Z",
+              "WhenOpened": "2026-03-10T08:17:59.682Z",
               "EditorCaption": ""
             }
           ]
